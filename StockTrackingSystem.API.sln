@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackingSystem.API", "StockTrackingSystem.API\StockTrackingSystem.API.csproj", "{DFCBDB61-0A44-4269-B6BD-C2BC3E95084D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackingSystem.Business", "StockTrackingSystem.Business\StockTrackingSystem.Business.csproj", "{F1CFD250-3382-425E-B383-53E8D9C21927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackingSystem.Data", "StockTrackingSystem.Data\StockTrackingSystem.Data.csproj", "{7F900EA9-7CA6-4F21-BFBE-4C7279AD906F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFCBDB61-0A44-4269-B6BD-C2BC3E95084D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCBDB61-0A44-4269-B6BD-C2BC3E95084D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCBDB61-0A44-4269-B6BD-C2BC3E95084D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCBDB61-0A44-4269-B6BD-C2BC3E95084D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CFD250-3382-425E-B383-53E8D9C21927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CFD250-3382-425E-B383-53E8D9C21927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CFD250-3382-425E-B383-53E8D9C21927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CFD250-3382-425E-B383-53E8D9C21927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F900EA9-7CA6-4F21-BFBE-4C7279AD906F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F900EA9-7CA6-4F21-BFBE-4C7279AD906F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F900EA9-7CA6-4F21-BFBE-4C7279AD906F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F900EA9-7CA6-4F21-BFBE-4C7279AD906F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11A56DC-38F0-42F5-A2AE-9F973613AC4D}
+	EndGlobalSection
+EndGlobal
