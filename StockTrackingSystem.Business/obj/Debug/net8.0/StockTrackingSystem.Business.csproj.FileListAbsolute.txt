@@ -1,0 +1,15 @@
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\bin\Debug\net8.0\StockTrackingSystem.Business.deps.json
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\bin\Debug\net8.0\StockTrackingSystem.Business.dll
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\bin\Debug\net8.0\StockTrackingSystem.Business.pdb
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\bin\Debug\net8.0\StockTrackingSystem.Data.dll
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\bin\Debug\net8.0\StockTrackingSystem.Data.pdb
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\StockTrackingSystem.Business.csproj.AssemblyReference.cache
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\StockTrackingSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\StockTrackingSystem.Business.AssemblyInfoInputs.cache
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\StockTrackingSystem.Business.AssemblyInfo.cs
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\StockTrackingSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\StockTra.5A5E47E1.Up2Date
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\StockTrackingSystem.Business.dll
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\refint\StockTrackingSystem.Business.dll
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\StockTrackingSystem.Business.pdb
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Business\obj\Debug\net8.0\ref\StockTrackingSystem.Business.dll

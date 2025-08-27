@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StockTrackingSystem.Business.ProductTransferDetails.Models
+{
+    public class ProductTransferDetailUpsertModel
+    {
+        public int Id { get; set; }
+        public string Mesaj { get; set; } = "Başarılı";
+    }
+}
