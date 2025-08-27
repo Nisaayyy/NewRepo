@@ -1,0 +1,12 @@
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\bin\Debug\net8.0\StockTrackingSystem.Data.deps.json
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\bin\Debug\net8.0\StockTrackingSystem.Data.dll
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\bin\Debug\net8.0\StockTrackingSystem.Data.pdb
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\StockTrackingSystem.Data.csproj.AssemblyReference.cache
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\StockTrackingSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\StockTrackingSystem.Data.AssemblyInfoInputs.cache
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\StockTrackingSystem.Data.AssemblyInfo.cs
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\StockTrackingSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\StockTrackingSystem.Data.dll
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\refint\StockTrackingSystem.Data.dll
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\StockTrackingSystem.Data.pdb
+C:\Users\nisa.ayata\source\repos\StockTrackingSystem.API\StockTrackingSystem.Data\obj\Debug\net8.0\ref\StockTrackingSystem.Data.dll
